@@ -19,5 +19,7 @@ public class Main {
             System.out.println("Name = " + userName);
             System.out.println("Age = " + userAge);
             System.out.println("Gender = " + userGender);
+        int numberOfPets = 1;
+            System.out.println("Number of Pets Owned = " + numberOfPets);
     }
 }
